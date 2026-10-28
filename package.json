@@ -1,0 +1,12 @@
+{
+  "name": "marnez-arennea-landing",
+  "private": true,
+  "version": "6.3.7",
+  "scripts": {
+    "build": "node prepare-public.mjs",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.145.0"
+  }
+}
