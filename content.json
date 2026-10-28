@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "eyebrow": "OPORTUNIDAD COMERCIAL CON RESPALDO REAL",
+    "title": "Tu talento puede llevarte <em>más lejos.</em>",
+    "lead": "Conviértete en Asesor Comercial de Marnez y avanza con una marca sólida, acompañamiento y una oportunidad real para generar resultados."
+  },
+  "pain": {
+    "title": "Tal vez no estás buscando trabajar más.",
+    "accent": "Estás buscando una oportunidad que te haga crecer.",
+    "body": "Una actividad que te permita avanzar profesionalmente, generar mejores resultados y mantener mayor control sobre tu tiempo."
+  },
+  "advisor": {
+    "eyebrow": "UNA OPORTUNIDAD DISEÑADA PARA QUE PUEDAS CRECER",
+    "title": "Autonomía con respaldo",
+    "subtitle": "Tú impulsas tu negocio. Nosotros aportamos estructura, herramientas y acompañamiento.",
+    "cards": [
+      {
+        "title": "Ingresos por resultados",
+        "text": "Tu desempeño marca tu crecimiento."
+      },
+      {
+        "title": "Horario flexible",
+        "text": "Horario matutino o vespertino."
+      },
+      {
+        "title": "Coach comercial",
+        "text": "Te ayuda a liberar tu potencial."
+      },
+      {
+        "title": "Venta consultiva",
+        "text": "Aprende a vender con claridad y sin presión."
+      },
+      {
+        "title": "Herramientas digitales",
+        "text": "Materiales y recursos para prospectar."
+      },
+      {
+        "title": "Oficinas corporativas",
+        "text": "Espacios para trabajar y recibir clientes."
+      }
+    ]
+  },
+  "process": {
+    "title": "Tu ruta hacia tus primeras ventas.",
+    "body": "No necesitas experiencia inmobiliaria. Necesitas disposición para aprender, practicar y construir resultados."
+  },
+  "product": {
+    "title": "Arennea: un producto con alto valor y de fácil colocación en el mercado.",
+    "body": "Lotes residenciales cerca de Playa Santa Clara, con financiamiento propio con la desarrolladora, amenidades y un entorno con potencial de crecimiento.",
+    "price": "$126,000 MXN",
+    "lotSize": "160 m²",
+    "downPayment": "20%",
+    "financing": "Hasta 42 meses",
+    "reservation": "$1,000 MXN",
+    "firstPayment": "$18,900 MXN",
+    "secondPayment": "$6,300 MXN",
+    "beach": "10.5 km de Playa Santa Clara",
+    "plusvalia": "La cercanía a la playa y el desarrollo de la zona fortalecen su atractivo y su potencial de plusvalía."
+  },
+  "community": {
+    "title": "Una comunidad que te acompaña de verdad",
+    "body": "Capacitación, seguimiento, experiencias con clientes y un equipo con el que puedes compartir cada etapa de tu crecimiento.",
+    "quote": "Lo que más valoro es el acompañamiento, la estructura y la posibilidad de crecer sin sentir que estoy avanzando sola.",
+    "quoteAuthor": "Asesora Marnez"
+  },
+  "marnez": {
+    "title": "Marnez: respaldo, experiencia y comunidad",
+    "body": "Marnez Desarrollos es una desarrolladora y comercializadora inmobiliaria con presencia en Yucatán. Su portafolio incluye proyectos como Arennea y Costella, respaldados por una estructura comercial, equipo y acompañamiento para asesores y clientes.",
+    "sold": "+466,181 m²",
+    "clients": "+1,800",
+    "alliances": "+60",
+    "years": "+5 años"
+  },
+  "office": {
+    "title": "Una fachada que refleja el respaldo de Marnez.",
+    "address": "Calle 21 410 Col, Jardines de Mérida, C.P. 97135, Mérida, Yucatán.",
+    "mapsUrl": "https://maps.app.goo.gl/y6nV14C4w3LRRnhK8"
+  },
+  "closing": {
+    "title": "Tu crecimiento puede empezar aquí.",
+    "body": "Una oportunidad para desarrollar ingresos, aprender, comercializar Arennea y avanzar acompañado por una estructura real."
+  }
+}

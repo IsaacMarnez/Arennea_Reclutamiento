@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "arennea-asesores",
+  "main": "./worker.js",
+  "compatibility_date": "2026-09-30",
+  "build": {
+    "command": "node prepare-public.mjs"
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  }
+}
